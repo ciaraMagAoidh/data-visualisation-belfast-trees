@@ -1,2 +1,3 @@
-# data-visualisation-belfast-trees
-Coffee&amp;Code
+# Data Visualisation with the Belfast Trees Dataset
+## A Workshop by Coffee&Code Belfast
+

@@ -1,10 +1,9 @@
 # Intro to workshop
 
 # Setup
-We will be using Google colab. 
-What it is and why
+We will be using Google CoLab for today's challenge. A CoLab notebook is an interactive environment that allows you to easily write Python and use Python libraries, ideal for Data Science and Visualisation projects. If you're new to CoLab, you can learn more about it [here](https://colab.research.google.com/notebooks/intro.ipynb#)
 
-New to Python? Check out these resources!
+New to Python? Check out our previous event on [Python for beginners:](https://docs.google.com/document/d/1K4e8VWE83uUTfhmx-06ze06pvv25sWqFmzvT8lTweFM/edit?usp=sharing)
 
 
 ## Tasks

@@ -1,9 +1,8 @@
-# Data Visualisation with the Belfast Trees Dataset
-## A Workshop by Coffee&Code Belfast
+# Data Visualisation: A Workshop by Coffee&Code Belfast
 
 # Intro to workshop
 
-# Setup
+## Setup
 We will be using Google CoLab for today's challenge. A CoLab notebook is an interactive environment that allows you to easily write Python and use Python libraries, ideal for Data Science and Visualisation projects. If you're new to CoLab, you can learn more about it [here](https://colab.research.google.com/notebooks/intro.ipynb#)
 
 New to Python? Check out some beginner resources to get you started:

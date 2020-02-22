@@ -1,6 +1,6 @@
 # Exploring data with python
 ## The Pokemon Dataset
-In this activity, we will be exploring the [pokemon data set](data/pokemon.csv) with python. More information on this data set can be found on [Kaggle](https://www.kaggle.com/abcsds/pokemon).
+In this activity, we will be exploring the [pokemon data set](https://github.com/ciaraMagAoidh/data-visualisation-belfast-trees/blob/master/data/pokemon.csv) with python. More information on this data set can be found on [Kaggle](https://www.kaggle.com/abcsds/pokemon).
 * [Understanding the concept of Python Libraries](https://data-flair.training/blogs/python-libraries/)
 * [Open and reading a CSV file with Python](https://realpython.com/python-csv/)
 * [Python Data Structures](https://docs.python.org/3/tutorial/datastructures.html)
@@ -12,7 +12,7 @@ In this activity, we will be exploring the [pokemon data set](data/pokemon.csv) 
 2,Ivysaur,Grass,Poison,405,60,62,63,80,80,60,1,False
 ```
 
-Now we know the structure of our [data](data/pokemon.csv) (a csv file), we can read it into a python dictionary using the [csv library](https://docs.python.org/3/library/csv.html).
+Now we know the structure of our [data](https://github.com/ciaraMagAoidh/data-visualisation-belfast-trees/blob/master/data/pokemon.csv) (a csv file), we can read it into a python dictionary using the [csv library](https://docs.python.org/3/library/csv.html).
 
 ```python
 with open("../datasets/pokemon.csv", mode='r') as csv_file:

@@ -19,8 +19,8 @@ You can also step through our previous Python workshop [here](https://docs.googl
 
 
 ## Tasks
-* [Task 1](markdown/task_001.md) is all about how we can use python to look at data
-* [Task 2](markdown/task_002.md) is all about graphing libraries that we can use to visualise our data
-* [Task 3](markdown/task_003.md) is all about libraries that we can use to better structure our data and libraries that are useful for maths
-* [Task 4](markdown/task_004.md) is all about visualising the Belfast trees dataset
+* [Activity 1](activities/activity_001.md) is all about how we can use python to look at data
+* [Activity 2](activities/activity_002.md) is all about graphing libraries that we can use to visualise our data
+* [Activity 3](activities/activity_003.md) is all about libraries that we can use to better structure our data and libraries that are useful for maths
+* [Activity 4](activities/activity_004.md) is all about visualising the Belfast trees data set
 

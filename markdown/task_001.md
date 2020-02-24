@@ -1,4 +1,4 @@
-# Exploring data with python
+****# Exploring data with python
 ## The Pokemon Dataset
 In this activity, we will be exploring the pokemon data set with python. More information on this data set can be found on [Kaggle](https://www.kaggle.com/abcsds/pokemon).
 * [Understanding the concept of Python Libraries](https://data-flair.training/blogs/python-libraries/)
@@ -27,3 +27,16 @@ for row in data:
 pokemon_count = len(pokemon_dict)
 print(pokemon_count)
 ```
+
+We now have a python dictionary called `pokemon_dict` that we can use to explore the data from the pokemon data set.
+
+### Try some of these exercises to learn more about the pokemon dataset.
+
+* #### Print the `unique pokemon types` from type 1
+* #### Print the names of the pokemon that have `two types`
+* #### Print the names of the pokemon that are `Legendary`
+* #### What pokemon have the `5 fastest speeds`?
+* #### What is the type and defense of `Flareon`
+
+ 
+
